@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="to_label" />
+    <string name="email_hint" />
+    <string name="message_hint" />
+    <string name="subject_hint" />
+</resources>
